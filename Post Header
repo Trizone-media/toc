@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.3/tocbot.css">
+<style>
+    .toc {
+        margin-bottom: 20px;
+    }
+    .toc-list {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    .toc-list-item {
+        margin-bottom: 5px;
+    }
+    .toc-link {
+        color: #333;
+        text-decoration: none;
+    }
+    .is-active-link {
+        font-weight: bold;
+        color: #000;
+    }
+</style>

@@ -1,0 +1,9 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.25.0/tocbot.min.js"></script>
+<script>
+    tocbot.init({
+        tocSelector: '.toc',
+        contentSelector: '.gh-content',
+        headingSelector: 'h2',
+        hasInnerContainers: true,
+    });
+</script>
